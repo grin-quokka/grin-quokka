@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grin-quokka
-- 👀 I’m interested in react, typescript, ...
+- 👀 I’m interested in Nest.js, typescript, ...
 - 🌱 I’m currently learning 'flutter'
 - 📫 How to reach me -> joala.dev@gmail.com
 
