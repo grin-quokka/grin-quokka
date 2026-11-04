@@ -1,6 +1,7 @@
 # 백엔드 개발자
 
 Java · Spring Boot와 TypeScript · NestJS로 백엔드를 개발합니다.
+업무와 개인 프로젝트 코드는 비공개 저장소에 있습니다.
 
 ## 기술 스택
 
